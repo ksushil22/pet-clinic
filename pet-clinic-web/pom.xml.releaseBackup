@@ -10,7 +10,6 @@
 
     <artifactId>pet-clinic-web</artifactId>
     <version>0.0.2</version>
-    <groupId>com.ksush</groupId>
 
     <dependencies>
         <dependency>

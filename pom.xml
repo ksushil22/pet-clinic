@@ -5,7 +5,7 @@
 
     <artifactId>pet-clinic</artifactId>
     <groupId>com.ksush</groupId>
-    <version>0.0.2</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -40,6 +40,7 @@
         </plugins>
     </build>
     <scm>
+        <connection>scm:git:git@github.com:ksushil22/pet-clinic.git</connection>
         <developerConnection>scm:git:git@github.com:ksushil22/pet-clinic.git</developerConnection>
         <tag>pet-clinic-0.0.2</tag>
     </scm>
