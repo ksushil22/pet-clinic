@@ -5,7 +5,7 @@
 
     <artifactId>pet-clinic</artifactId>
     <groupId>com.ksush</groupId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -35,6 +35,7 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <configuration>
                     <goals>install</goals>
+                    <pomFileName>../moduleA/pom.xml</pomFileName>
                 </configuration>
             </plugin>
         </plugins>
