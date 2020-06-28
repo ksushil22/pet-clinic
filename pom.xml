@@ -42,5 +42,6 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:ksushil22/pet-clinic.git</developerConnection>  </scm>
+        <developerConnection>scm:git:git@github.com:ksushil22/pet-clinic.git</developerConnection>
+    </scm>
 </project>
