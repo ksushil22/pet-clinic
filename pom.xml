@@ -40,4 +40,7 @@
         </plugins>
     </build>
 
+    <scm>
+        <developerConnection>scm:git:https://github.com/ksushil22/pet-clinic.git</developerConnection>
+    </scm>
 </project>
